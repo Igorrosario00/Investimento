@@ -1,6 +1,6 @@
 # Plano de Investimentos
 
-Este arquivo descreve um plano de investimentos com base em um perfil agressivo. Ele detalha o valor a ser investido mensalmente, tipos de Fundos Imobiliários (FII), e projeções de rendimentos ao longo dos anos.
+Este arquivo descreve um plano de investimentos com base nos perfis agressivo, moderado e Conservador. Ele detalha o valor a ser investido mensalmente, tipos de Fundos Imobiliários (FII), e projeções de rendimentos ao longo dos anos.
 
 ## Configurações
 
@@ -15,12 +15,34 @@ Para um perfil agressivo, a sugestão de alocação dos investimentos nos difere
 
 | Tipo de FII       | Percentual Sugerido |
 |-------------------|--------------------|
-| Papel            | 50%                |
-| Tijolo           | 10%                |
-| Híbridos         | 5%                 |
-| FOFs             | 5%                 |
-| Desenvolvimento  | 20%                |
-| Hotelarias       | 10%                |
+| Papel             | 50%                |
+| Tijolo            | 10%                |
+| Híbridos          | 5%                 |
+| FOFs              | 5%                 |
+| Desenvolvimento   | 20%                |
+| Hotelarias        | 10%                |
+
+Para um perfil moderado, a sugestão de alocação dos investimentos nos diferentes tipos de FII é:
+
+| Tipo de FII       | Percentual Sugerido |
+|-------------------|--------------------|
+| Papel             | 32%                |
+| Tijolo            | 40%                |
+| Híbridos          | 8%                 |
+| FOFs              | 10%                |
+| Desenvolvimento   | 5%                 |
+| Hotelarias        | 5%                 |
+
+Para um perfil Conservador, a sugestão de alocação dos investimentos nos diferentes tipos de FII é:
+
+| Tipo de FII       | Percentual Sugerido |
+|-------------------|--------------------|
+| Papel             | 30%                |
+| Tijolo            | 50%                |
+| Híbridos          | 10%                |
+| FOFs              | 10%                |
+| Desenvolvimento   | 0%                 |
+| Hotelarias        | 0%                 |
 
 ## Projeções
 
