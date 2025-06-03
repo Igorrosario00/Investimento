@@ -93,6 +93,9 @@ Este plano usa um banco de dados com perfis de investimento e respectivas aloca�
 
 ## Contribuições
 
+[Investimento.xlsx](https://github.com/user-attachments/files/20575340/Investimento.xlsx)
+
+
 Este modelo pode ser ajustado com base em novas estratégias e mudanças de perfil de risco. Sinta-se à vontade para modificar os parâmetros conforme necessário.
 
 ---
